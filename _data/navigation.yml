@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Machine Learning"
-  # -  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  -  url: https://naeem-bebit.github.io/machine_learning/
   - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://naeem-bebit.github.io/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
