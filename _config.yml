@@ -111,7 +111,7 @@ author:
   avatar           : https://media-exp1.licdn.com/dms/image/C5103AQFLQ7ngpfPyoA/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=uYRieB1x5lOFuMYpJ4oTZNNasAvEzjQSb3NUWUlRDJA
   bio              : "I am a machine learning Engineer"
   location         : "Tokyo Japan"
-  email            : naeemhussien@gmail.com
+  email            : # naeemhussien@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -293,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
