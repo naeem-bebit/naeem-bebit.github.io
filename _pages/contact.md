@@ -5,7 +5,7 @@ title: "Contact"
 author_profile: true
 ---
 
-Feel free to ask me on data science/machine learning or image processing by sending an email to [naeemhussien@gmail.com](mailto:naeemhussien@gmail.com) either directly or using the contact form below. 
+Feel free to ask me on data science/machine learning or image processing by using the contact form below. 
 
 I will get back to you as soon as possible! :)
 
@@ -20,9 +20,14 @@ I will get back to you as soon as possible! :)
     <label>Subject: <input type="text" name="subject" /></label>
   </p>
   <p>
+    <label>Your Location: <input type="text" name="location" /></label>
+  </p>
+  <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
   </p>
+    <input type="hidden" name="_next" value="https://naeem-bebit.github.io/thankyou.html"/>
+    <input type="text" name="_gotcha" style="display:none" />
 </form>
