@@ -4,8 +4,14 @@ permalink: /about/
 author_profile: true
 ---
 
-I have a Computer Engineering (CE) background as all of my degrees are in CE. After my Bachelor, I was doing my higher education in the field of Image processing (back then, image processing was Engineering field rather than Computer Science) when the Data revolution took shape. People were more familiar with the word “Big Data” at the time rather than Data Science or Machine Learning and even Neural Networks. 
+After obtaining a Bachelor's Degree in Computer Engineering (CE), I decided to approach the Engineering field rather than Computer Science by pursuing a Masters in Image Processing.
 
-Then, I got hooked up with Machine Learning and started steering my career path towards Data Science since. Upon realizing where my passion lies, I left my comfort zone and self-taught Data Science skills with mission tgiving my value to create more meaningful value through Data Science. I had a bit of good start with Image Processing background, especially in programming, so I didn’t have to start from scratch. Despite that, I encountered numerous obstacles trying to make the cut into the field of Data Science (yeah, I read statistics books again).
+At the time (circa 2013), the Data revolution was just beginning to take place and people were still introduced to the term ‘Big Data’ due to a need for a more efficient way of managing vast & complex data/information. 
 
-It was quite confusing to me at the time since I didn’t know where to start, what skills I need to sharpen, how I should form my resume, etc. If you are reading this and have similar situations, I hope you find this helpful.
+It is through Machine Learning that I have discovered my true calling; that is a career in Data Science. However, the transition to venture into this field takes a lot of effort and courage to get out of my comfort zone. Not to mention having to self-taught myself in Data Science due to its fairly recent arrival in a country like Malaysia.
+
+Despite having a considerable amount of Image Processing & Programming backgrounds, there were still challenges that I’ve encountered throughout my Data Science journey, such as having to revisit Statistics studies and journal-reading.
+
+Embarking on this career path was not a breeze but it definitely provided me with a lot of invaluable experience so far. I hope that this blog on Data Science would benefit both the readers and myself as it’s not only just me sharing my views but it’s also about exchanging ideas and experiences with fellow programmers around the world. 
+
+Let’s code to save the world! 
