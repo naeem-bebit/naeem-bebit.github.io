@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-After obtaining a Bachelor's Degree in Computer Engineering (CE), I decided to approach the Engineering field rather than Computer Science by pursuing a Masters in Image Processing.
+After obtaining a Bachelor's Degree in Computer Engineering (CE), I soon pursued my Masters in Image Processing, which was a field initially considered as an Engineering discipline but later on found its relevance towards Computer Science.
 
 At the time (circa 2013), the Data revolution was just beginning to take place and people were still introduced to the term ‘Big Data’ due to a need for a more efficient way of managing vast & complex data/information. 
 
