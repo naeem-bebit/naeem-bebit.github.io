@@ -95,7 +95,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: # An array of links to social  profiles
 
 # Analytics
 analytics:
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Naeem"
-  avatar           : https://media-exp1.licdn.com/dms/image/C5103AQFLQ7ngpfPyoA/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=uYRieB1x5lOFuMYpJ4oTZNNasAvEzjQSb3NUWUlRDJA
+  avatar           : https://drive.google.com/uc?id=1OCd432Qmi4cNB_2LXaW-XVY0_vB-ccJC
   bio              : "I am a machine learning Engineer"
   location         : "Tokyo Japan"
   email            : naeemhussien@gmail.com
