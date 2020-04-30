@@ -8,11 +8,13 @@ tags:
   - Python
 ---
 ----
+
 ## Table of Contents
 * **[Major types of data](#major-types-of-data)**
   * [Numerical Data](#numerical-data)
   * [Categorical Data](#categorical-data)
 * **[Ordinal Data](#ordinal-data)**
+
 ----
 # Data type
 ## Major types of data
