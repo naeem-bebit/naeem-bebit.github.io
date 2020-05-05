@@ -3,7 +3,6 @@ title: "Type of Data"
 date: 2020-04-12
 excerpt: "Most common type of data"
 mathjax: "true"
-categories: python
 toc: true
 toc_sticky: true
 tags:
