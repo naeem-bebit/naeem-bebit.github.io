@@ -14,7 +14,7 @@ git clone --recurse-submodules https://github.com/naeem-bebit/naeem-bebit.github
 
 ## Writing a post
 
-Create a Markdown file at `content/posts/YYYY-MM-DD-slug.md` with front matter:
+Create a Markdown file at `content/posts/my-slug.md` — the file name (minus `.md`) becomes the URL (`/posts/my-slug/`). Hugo does **not** strip a `YYYY-MM-DD-` prefix like Jekyll does, so don't prefix the name with a date. Put the date in the front matter instead:
 
 ```yaml
 ---
@@ -29,7 +29,7 @@ ShowToc: true
 Post content here.
 ```
 
-To keep a custom URL, add `url: "/my-slug/"` to the front matter.
+To use a custom URL (e.g. a short root-level `/my-topic/` like the older posts), add `url: "/my-topic/"` to the front matter.
 
 ## Previewing locally
 
