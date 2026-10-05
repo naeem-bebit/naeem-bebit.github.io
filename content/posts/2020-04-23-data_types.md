@@ -3,7 +3,6 @@ title: "Type of Data"
 date: 2020-04-12
 summary: "Most common type of data"
 description: "Most common type of data"
-mathjax: "true"
 ShowToc: true
 TocOpen: true
 tags:
