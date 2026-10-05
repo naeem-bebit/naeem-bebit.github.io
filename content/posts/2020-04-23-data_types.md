@@ -1,12 +1,14 @@
 ---
 title: "Type of Data"
 date: 2020-04-12
-excerpt: "Most common type of data"
+summary: "Most common type of data"
+description: "Most common type of data"
 mathjax: "true"
-toc: true
-toc_sticky: true
+ShowToc: true
+TocOpen: true
 tags:
   - Python
+url: "/data_types/"
 ---
 ----
 
