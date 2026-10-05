@@ -1,0 +1,69 @@
+baseURL = "https://naeem-bebit.github.io/"
+title = "Data Science Blog"
+theme = "PaperMod"
+locale = "en-us"
+
+[pagination]
+  pagerSize = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  env = "production"
+  description = "About Data Science"
+  author = "Naeem Hussien"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = true
+  ShowWordCount = false
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Naeem"
+    Content = "I am a machine learning Engineer based in Tokyo, Japan."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/naeem-bebit"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:naeemhussien@gmail.com"
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 3
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
