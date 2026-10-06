@@ -20,6 +20,6 @@ Have a question about data science, machine learning, or image processing? Send 
   <p>
     <button type="submit">Send</button>
   </p>
-    <input type="hidden" name="_next" value="https://naeem-bebit.github.io/thankyou.html"/>
+    <input type="hidden" name="_next" value="https://naeem-bebit.github.io/"/>
     <input type="text" name="_gotcha" style="display:none" />
 </form>
