@@ -1,0 +1,56 @@
+/* PaperMod's reset.css strips all input/textarea/button styling (border:0,
+   padding:0, background:0) and the theme ships no form styles of its own,
+   so raw HTML forms render invisible. Re-style the contact form using the
+   theme's CSS variables so it works in light and dark mode. */
+
+.contact-form label {
+    display: block;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    display: block;
+    width: 100%;
+    margin-top: 6px;
+    padding: 8px 12px;
+    color: var(--primary);
+    background: var(--theme);
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+}
+
+.contact-form input[type="text"]:focus,
+.contact-form input[type="email"]:focus,
+.contact-form textarea:focus {
+    border-color: var(--secondary);
+}
+
+.contact-form textarea {
+    min-height: 140px;
+    resize: vertical;
+}
+
+.contact-form button[type="submit"] {
+    padding: 8px 20px;
+    color: var(--primary);
+    background: var(--entry);
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+    cursor: pointer;
+}
+
+.contact-form button[type="submit"]:hover {
+    background: var(--tertiary);
+}
+
+.contact-form button[type="submit"]:disabled {
+    opacity: 0.6;
+    cursor: default;
+}
+
+.contact-status {
+    font-size: 0.9em;
+    color: var(--secondary);
+    min-height: 1.6em;
+}
